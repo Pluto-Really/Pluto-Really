@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Pluto-Really&label=Profile%20views&color=c82107&style=flat"
+<img src="https://komarev.com/ghpvc/?username=Pluto-Really&label=Profile%20views&color=c82107&style=flat">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pluto-Really&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=f20000&ring=f20000&currStreakLabel=f20000)](https://git.io/streak-stats)
 
